@@ -1,2 +1,1 @@
-# DrumKit-Challenge
-DrumKit Challenge
+https://anastasia-los.github.io/DrumKit-Challenge/
